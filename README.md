@@ -20,12 +20,12 @@ Antes de iniciar, garanta que você possui os seguintes itens instalados no seu 
 3. Execute o comando abaixo para clonar o repositório:
 
 ```bash
-git clone https://github.com/Trovisck/playwright-pom-sauce-demo.git
+git clone https://github.com/Trovisck/playwright-pom-sauce-demo-Greenn-.git
 ```
 4. Após o download, entre na pasta do projeto:
 
 ```bash
-cd playwright-pom-sauce-demo
+cd playwright-pom-sauce-demo-Greenn-
 ```
 ---
 

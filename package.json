@@ -1,7 +1,7 @@
 {
-  "name": "auvo_playwright",
+  "name": "playwright",
   "version": "1.0.0",
-  "description": "Automated tests for the Auvo application using Playwright",
+  "description": "Automated tests for the Greenn application using Playwright",
   "main": "index.js",
   "scripts": {
     "test": "npx playwright test",
